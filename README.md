@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Derek1z
-- 👀 I’m interested in computer programming, Internet of things and Artificial Intelligence
+- 👋 Hi, I’m Derrick Baalaboore
+- 👀 I’m interested in Computer programming, Internet of Things, Automation and Smart systems, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Electrical Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dbaalaboore@gmail.com.
 
 <!---
