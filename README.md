@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Derrick Baalaboore
-- 👀 I’m interested in Computer programming, Internet of Things, Automation and Smart systems, Machine Learning and Artificial Intelligence
+- 👀 I’m interested in Python programming, Internet of Things, Automation and Smart systems, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Electrical Engineering
 - 📫 How to reach me dbaalaboore@gmail.com.
 
