@@ -1,85 +1,32 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Derrick Baalaboore</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Engineer;Student;Programmer;Developer"></a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0284c7&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Derrick%20Baalaboore&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Header Banner" />
 </p>
 
-
-
-
-
-
-- 👀 I’m interested in Python programming, Internet of Things, Automation and Smart systems, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently an Electrical Engineering major
-- 📫 How to reach me dbaalaboore@gmail.com.
-
-<!--- stats & Trophy (start) -->
+<!-- Dynamic Typing SVG Subtitle -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=derek1z&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=derek1z&theme=dark&hide_border=false" /> 
-</td>
-
-
-
-
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=derek1z&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,figma,github,html,js,mysql,postman,sklearn,tensorflow,anaconda,autocad,matlab,py,vscode&perline=14" />
+  <a href="https://github.com/derek1z">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Electrical+Engineering+Major+%E2%9A%A1;IoT+%26+Smart+Systems+Developer+%F0%9F%93%A1;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A9%B7;Python+%26+Automation+Engineer+%F0%9F%90%8D" alt="Typing SVG" />
   </a>
 </p>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-
-<!--icons and links-->
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/derrick-baalaboore-916047215"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:dbaalaboore@gmail.com."><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
- <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://img.shields.io/badge/Focus-IoT%20%7C%20AI%20%7C%20Automation-0f172a?style=for-the-badge&labelColor=0284c7" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Smart%20Systems-0f172a?style=for-the-badge&labelColor=10b981" alt="Status Badge" />
+  <img src="https://komarev.com/ghpvc/?username=derek1z&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+### 💻 Developer Profile Terminal
+
+```bash
+derrick@baalaboore ~ $ neofetch
+─────────────-───────────────────────────────────────────────────────
+  USER       : Derrick Baalaboore (@derek1z)
+  MAJOR      : Electrical Engineering ⚡
+  SPECIALTY  : IoT, Embedded Systems & Automation
+  STACK      : Python | C/C++ | ML (TensorFlow/Sklearn) | MATLAB
+  SYSTEMS    : Microcontrollers, Smart Home & DSP
+  STATUS     : Open for Collaboration & Engineering Projects
+────────────────────────────────────────────────────────────────────
