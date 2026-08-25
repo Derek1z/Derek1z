@@ -1,165 +1,262 @@
-<!-- ========================= -->
+<!-- ====================================================== -->
 
 <!-- HEADER -->
 
-<!-- ========================= -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:0284c7&height=220&section=header&text=Derrick%20Baalaboore&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Derrick Baalaboore" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:0284c7&height=220&section=header&text=Derrick%20Baalaboore&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Derrick Baalaboore" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/derek1z">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Performance+Engineer+%7C+Data+Analyst;Telecom+%26+Network+Engineering;Python+%7C+Automation+%7C+Analytics;Building+Data-Driven+Engineering+Systems" alt="Typing SVG" />
+  <a href="https://github.com/Derek1z">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Performance+Engineer+%7C+Data+Analyst;Telecom+%26+Network+Engineering;Python+%7C+Automation+%7C+Analytics;Building+Data-Driven+Engineering+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Performance%20Engineering-0f172a?style=for-the-badge&labelColor=0284c7" alt="Performance Engineering" />
-  <img src="https://img.shields.io/badge/Telecom%20%26%20Networks-0f172a?style=for-the-badge&labelColor=0284c7" alt="Telecom and Networks" />
-  <img src="https://img.shields.io/badge/Data%20%26%20Analytics-0f172a?style=for-the-badge&labelColor=0284c7" alt="Data and Analytics" />
-  <img src="https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&labelColor=10b981" alt="Automation" />
+  <a href="https://github.com/Derek1z">
+    <img src="https://img.shields.io/badge/Performance%20Engineering-0F172A?style=for-the-badge&labelColor=0284C7" alt="Performance Engineering" />
+  </a>
+  <a href="https://github.com/Derek1z">
+    <img src="https://img.shields.io/badge/Telecom%20%26%20Networks-0F172A?style=for-the-badge&labelColor=0284C7" alt="Telecom and Networks" />
+  </a>
+  <a href="https://github.com/Derek1z">
+    <img src="https://img.shields.io/badge/Data%20%26%20Analytics-0F172A?style=for-the-badge&labelColor=0284C7" alt="Data and Analytics" />
+  </a>
+  <a href="https://github.com/Derek1z">
+    <img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&labelColor=10B981" alt="Automation" />
+  </a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Derrick Baalaboore**, an Electrical Engineering graduate working at the intersection of **telecommunications, performance engineering, data analytics, and automation**.
+I'm **Derrick Baalaboore**, an Electrical Engineering graduate working at the intersection of **telecommunications, performance engineering, data analytics, automation, and software development**.
 
-My work focuses on turning complex engineering and operational data into **actionable insights, automated workflows, and practical software tools**.
+I build tools that turn complex engineering and operational data into **actionable insights, automated workflows, and decision-support systems**.
 
-I enjoy working across the stack — from understanding network performance and engineering KPIs to building Python automation, analytical workflows, dashboards, and applications that make technical work faster and more reliable.
+My current work sits heavily around **telecom network performance and QoS analytics**, while my broader engineering interests span data engineering, machine learning, AI, automation, and software systems.
 
-### What I Work On
-
-* 📡 **Telecommunications & Network Performance**
-* 📊 **Data Analytics & Performance Intelligence**
-* 🐍 **Python Development & Automation**
-* 🤖 **AI / Machine Learning Applications**
-* ⚙️ **Engineering Automation**
-* 🖥️ **Data Visualization & Dashboards**
-* ⚡ **Electrical & Systems Engineering**
-* 💻 **Software & Developer Tooling**
+I enjoy taking a problem from **raw data → analysis → engineering logic → automation → usable application**.
 
 ---
 
-## 🧠 Engineering Focus
+## 🎯 Current Focus
 
 ```text
-                    DERRICK BAALABOORE
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-     ENGINEERING        DATA & AI        SOFTWARE
-          │                │                │
-     Telecom          Analytics         Python
-     Networks         ML / AI           Automation
-     KPIs             Visualization     APIs
-     RF / QoS         Statistics        Applications
-     Performance      Data Products     Dashboards
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                 DATA-DRIVEN ENGINEERING
+Telecom Performance
+        │
+        ▼
+   Network Data
+        │
+        ▼
+ Analytics & KPIs
+        │
+        ▼
+ Engineering Intelligence
+        │
+        ▼
+ Automation & Applications
+        │
+        ▼
+ Better Decisions
 ```
+
+Currently focused on:
+
+* 📡 **Telecom network performance & QoS analytics**
+* 📊 **Engineering KPI/KQI analysis and visualization**
+* 🐍 **Python-based automation and data workflows**
+* 🖥️ **Engineering analytics applications and dashboards**
+* 🤖 **Practical AI / Machine Learning applications**
+* ⚙️ **Automating repetitive engineering processes**
+* 📈 **Forecasting, anomaly detection and performance intelligence**
+
+---
+
+## 🌟 Featured Projects
+
+### 📡 [2G/3G/4G QoS Network Intelligence](https://github.com/Derek1z/QOS-App-Project)
+
+A portable desktop analytics platform for **telecom QoS and network performance intelligence**.
+
+Built with **Electron + DuckDB**, the application provides an offline engineering workspace for multi-technology network data, including:
+
+* Network health scoring
+* KPI analytics
+* Weekly network-congestion analysis
+* Cell intelligence and prioritization
+* Health matrices
+* Network hierarchy exploration
+* Performance analysis
+* Forecasting and early warning
+* Investigation workflows
+* Reporting and snapshot comparison
+* Excel and PowerPoint report generation
+* Data-quality and workspace management
+* Automated smoke testing
+
+**Stack:** `Electron` `TypeScript` `React` `DuckDB` `ECharts` `ExcelJS` `PptxGenJS`
+
+> **This is currently the clearest representation of my work in telecom performance engineering and engineering analytics.**
+
+---
+
+### ⚡ [PMSM Fault Detection & Classification](https://github.com/Derek1z/Final-Year-Project)
+
+An engineering research project applying **Artificial Neural Networks to Permanent Magnet Synchronous Motor fault detection and classification**.
+
+The project combines electrical-machine modelling, dynamic simulation and machine learning using telemetry such as `Id`, `Iq`, `Vd`, `Vq`, and rotor speed.
+
+Includes:
+
+* TensorFlow/Keras neural networks
+* PyTorch neural networks
+* MATLAB/Simulink dynamic motor models
+* Fault injection simulations
+* Data preprocessing pipelines
+* Model evaluation
+* CLI-based training and evaluation
+* Automated unit tests
+* Reproducible Jupyter notebooks
+
+**Stack:** `Python` `TensorFlow` `PyTorch` `MATLAB` `Simulink` `Scikit-learn`
+
+---
+
+### 🤖 [Credit Card Fraud Detection](https://github.com/Derek1z/aidTech_Credit-Card-Fraud-Detection)
+
+A machine-learning classification project using **Support Vector Machines** to identify fraudulent credit-card transactions.
+
+Includes data preprocessing and evaluation using accuracy, precision, recall, F1-score and confusion matrices.
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `SVM`
+
+---
+
+### 🎬 [Movie Recommendation System](https://github.com/Derek1z/aidTech_Movie-Recomendation-System)
+
+A recommendation-system project using **K-Nearest Neighbors** and sparse user-item matrices to generate movie recommendations based on similarity and user ratings.
+
+**Stack:** `Python` `Pandas` `SciPy` `Scikit-learn` `KNN`
+
+---
+
+## 🧠 Technical Skills
+
+### Engineering
+
+* **Telecommunications:** 2G / 3G / 4G / 5G
+* **Network Performance:** QoS, QoE, KPI/KQI analysis
+* **Performance Engineering:** utilization, congestion, trends, thresholds and optimization
+* **Electrical Engineering:** electrical machines, control, signals and systems
+* **Simulation:** MATLAB / Simulink
+
+### Data & Analytics
+
+* Python
+* SQL / MySQL
+* Pandas
+* NumPy
+* Scikit-learn
+* Data cleaning & transformation
+* Statistical analysis
+* KPI frameworks
+* Performance analytics
+* Data visualization
+* Forecasting
+* Machine learning
+
+### Automation
+
+* Python automation
+* Excel VBA
+* RPA / UiPath
+* Data-processing workflows
+* Reporting automation
+* API integration
+* Engineering workflow automation
+
+### Software Development
+
+* Python
+* TypeScript / JavaScript
+* React
+* Electron
+* HTML / CSS
+* DuckDB
+* Git / GitHub
+* REST APIs
+* Linux
+* VS Code
+
+### AI / Machine Learning
+
+* Supervised learning
+* Classification
+* Recommendation systems
+* Neural networks
+* TensorFlow / Keras
+* PyTorch
+* Scikit-learn
+* Applied AI
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Languages & Programming
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql,matlab&perline=8" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,js,cpp,c,html,css,mysql,matlab&perline=9" alt="Languages and Core Technologies" />
 </p>
 
-### Data, Analytics & AI
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql&perline=8" alt="Data and AI Technologies" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=8" alt="AI and Machine Learning" />
 </p>
 
-**Areas:**
-`Data Analysis` `Data Cleaning` `Statistical Analysis` `Machine Learning` `KPI Analysis` `Performance Analytics` `Data Visualization`
-
-### Automation & Engineering
-
-`Python Automation` `Excel VBA` `RPA` `Process Automation` `MATLAB` `Signal Processing` `Engineering Analysis`
-
-### Telecom & Network Engineering
-
-`Network Performance` `4G/LTE` `5G` `QoS` `QoE` `KPI/KQI Analysis` `Capacity & Utilization` `Network Optimization`
-
-### Development & Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=8" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=react,electron,git,github,vscode,linux,postman&perline=8" alt="Development Tools" />
 </p>
+
+### Quick Reference
+
+| Area                        | Technologies                                                   |
+| --------------------------- | -------------------------------------------------------------- |
+| **Programming**             | Python, TypeScript, JavaScript, C, C++, SQL                    |
+| **Data**                    | Pandas, NumPy, DuckDB, MySQL                                   |
+| **Analytics**               | KPI Analysis, Statistical Analysis, Visualization, Forecasting |
+| **AI / ML**                 | Scikit-learn, TensorFlow, PyTorch                              |
+| **Engineering**             | MATLAB, Simulink, Telecom QoS/KPIs                             |
+| **Automation**              | Python, VBA, UiPath, APIs                                      |
+| **Application Development** | React, Electron, TypeScript                                    |
+| **Tools**                   | Git, GitHub, Linux, VS Code, Postman                           |
 
 ---
 
-## 🚀 What You'll Find Here
+## 📊 Engineering Philosophy
 
-This GitHub is where I experiment, build, and document work across **engineering, analytics, automation, and software development**.
+> **Good engineering turns data into understanding.
+> Good software turns understanding into action.
+> Great engineering software does both.**
 
-### 📡 Telecom & Performance Engineering
-
-Tools and analytical workflows for:
-
-* Network KPI monitoring
-* QoS and performance analysis
-* Technology-level comparisons
-* Capacity and utilization analysis
-* Network troubleshooting
-* Engineering performance reporting
-
-### 📊 Data Analytics
-
-Projects involving:
-
-* Data transformation and cleaning
-* Exploratory data analysis
-* KPI frameworks
-* Performance dashboards
-* Automated reporting
-* Data-driven decision support
-
-### ⚙️ Automation
-
-Automation solutions designed to eliminate repetitive engineering and analytical workflows using:
-
-* Python
-* Excel / VBA
-* RPA
-* APIs
-* Data processing pipelines
-
-### 🤖 AI & Machine Learning
-
-Exploring practical applications of:
-
-* Machine learning
-* Predictive analytics
-* AI-assisted engineering
-* Intelligent automation
-* Data-driven systems
+I am particularly interested in building systems where **engineering knowledge, analytics and automation reinforce each other**.
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derek1z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Derrick's GitHub Statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derek1z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Derek1z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Derrick's GitHub Statistics" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derek1z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derek1z&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derek1z&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derek1z&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derek1z&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </p>
 
 ---
@@ -168,15 +265,24 @@ Exploring practical applications of:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derek1z/derek1z/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/derek1z/derek1z/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/derek1z/derek1z/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Derek1z/Derek1z/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Derek1z/Derek1z/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Derek1z/Derek1z/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations involving:
+
+* 📡 Telecom & network engineering
+* 📊 Performance engineering & data analytics
+* ⚙️ Engineering automation
+* 🤖 Applied AI / Machine Learning
+* 💻 Data-driven software applications
+* 🧠 Technical problem solving
 
 <p align="center">
   <a href="https://www.linkedin.com/in/derrick-baalaboore-916047215">
@@ -187,7 +293,7 @@ Exploring practical applications of:
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/derek1z">
+  <a href="https://github.com/Derek1z">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
